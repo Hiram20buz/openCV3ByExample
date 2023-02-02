@@ -1,0 +1,5 @@
+#Save video from the camera with applied filter
+#screenlogger
+#videologger
+#add watermark
+#how to reverse filter

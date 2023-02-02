@@ -1,0 +1,7 @@
+https://github.com/PacktPublishing/OpenCV-3-x-with-Python-By-Example/blob/master/Chapter01/04_image_color_split.py
+
+#Download image with curl
+curl https://thumbs.dreamstime.com/b/abstract-creative-illustration-colorful-lion-abstract-creative-illustration-colorful-lion-black-color-190846410.jpg > a.jpg
+
+curl -O https://www.python.org/static/apple-touch-icon-144x144-precomposed.png
+
